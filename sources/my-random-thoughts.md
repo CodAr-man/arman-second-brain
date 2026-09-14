@@ -1,0 +1,5 @@
+-just like people are selling databases on Indiamart, we can do that too as well, all we have to do is scrape relevant data using apify scrapers and sell them. just like people are doing it on Indiamart. We can also scrape data from youtube channels like people who are watching contents of youtubers making videos on credit card, so if i get the viewers data i can sell them to credit card companies, same i can sell data of investment/trading geeks who watch finance videos of racahna ranade to trading firms, similarly i can sell data of various niches to various Industries!
+- refer this /home/arman/.gemini/antigravity-ide/brain/f526f8dd-9caf-4c92-9f45-bcb6f5f2af5a/virality_strategy.md for building a viral twitter account!
+-I also have to list my services on fiver, services of everything I can do and everything that I can get AI to do for me and client.
+I have to create a automation to apply for jobs on Truelancer, including sending them video with proposals, use BHUMAN video tool for sending personalised videos!
+

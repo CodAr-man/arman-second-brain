@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "98be2ba0151d188b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7294b02f585cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd67ba6588beb9c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bluesmithera-action-roadmap.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bluesmithera-action-roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c47e9017b51bb00",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8baafbbfbe019fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f76706fc69c37ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9dc23ccfa2c57aa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4dab776c6b794fa3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffb573b2d3db3e74",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfb92527332588f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2149c4aec846bd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "982f1af0f5d21d98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d8573b7fc7b1ea18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17a1e2d37a722646",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72f6b771d4b315ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "cd67ba6588beb9c0",
+  "lastOpenFiles": [
+    "sources/my-random-thoughts.md",
+    "update_roadmap.py",
+    "concepts/ERP-Outreach-Strategy.md",
+    "concepts/Free-Market-Research.md",
+    "bluesmithera-action-roadmap.excalidraw",
+    "bluesmithera-brain-map.excalidraw",
+    "generate_roadmap.py",
+    "todo/Action-Plan.md",
+    "todo",
+    "generate_curved_map.py",
+    "generate_funnel_map.py",
+    "Untitled.base",
+    "Untitled.canvas",
+    "2026-09-13.md",
+    "bluesmithera-brain-map.md",
+    "Excalidraw/Drawing 2026-09-13 12.30.39.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-13 12.35.14.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-13 12.34.47.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-13 12.34.31.excalidraw.md",
+    "convert.py",
+    "Excalidraw",
+    "concepts/monetization-free-tool-websites.md",
+    "concepts/content-and-marketing-strategy.md",
+    "concepts/product-social-automation-app.md",
+    "concepts/product-ai-objection-caller.md",
+    "concepts/agency-service-offerings.md",
+    "concepts/client-acquisition-strategy.md",
+    "entities/people/shreyas-raj.md",
+    "entities/people/nick-sareav.md",
+    "entities/people/koushik.md",
+    "entities/people/jack-roberts.md",
+    "entities/organizations/bluesmithera-ai.md",
+    "skills/excalidraw/SKILL.md"
+  ]
+}
