@@ -28,6 +28,7 @@ This skill is designed to run automatically (often via a scheduled background ta
      - `entities/organizations/` (Businesses, agencies)
      - `entities/people/` (Creators, leads, authors)
      - `entities/tools/` (Software, platforms)
+   - **CRITICAL:** Every new or updated OKF concept/entity file MUST include a YAML frontmatter block at the very top containing a `type`, `tags`, and `title`. (e.g., `--- \n type: concept \n tags: [example] \n ---`). This enables Dynamic System Prompts and Progressive Disclosure as taught by Cole Medin.
    - Use markdown wikilinks (`[[like this]]`) to interlink related concepts.
 
 4. **Clear the Source File:**
@@ -43,3 +44,9 @@ This skill is designed to run automatically (often via a scheduled background ta
      - **Arrow Styling:** ALWAYS use curved arrows (`"roundness": {"type": 2}`) with intermediate control points to route lines around boxes so they NEVER overlap or cross each other.
      - **Focus:** The leftmost (or topmost) uncompleted box is the exact next step the user needs to take to make money.
    - **Output is an `.excalidraw` file only.** Do NOT attempt to render a PNG.
+
+6. **Rebuild the Wiki Index:**
+   - Use the `grep_search` tool (e.g., querying `^(title|tags):` with regex enabled) to instantly extract the titles and tags from all markdown files in `concepts/` and `entities/` in bulk. Avoid reading files one-by-one to save tokens.
+   - Overwrite the master `index.md` at the root of the vault with a structured table of contents.
+   - Group the links logically by **Tags** (e.g., Marketing, Sales, Tools) to optimize information retrieval and Progressive Disclosure.
+   - Use proper markdown wikilinks (`[[filename]]`) in the index.

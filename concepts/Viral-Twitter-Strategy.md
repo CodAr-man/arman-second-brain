@@ -1,3 +1,9 @@
+---
+title: "X (Twitter) Virality Strategy"
+tags: [twitter, growth, strategy]
+type: concept
+---
+
 # X (Twitter) Virality Strategy: Actionable Steps
 
 Based on the core principles outlined in The Birdhouse playbook, here is the virality strategy broken down into simple, actionable steps to build a profitable personal brand.

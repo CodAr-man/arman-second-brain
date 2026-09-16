@@ -1,0 +1,18 @@
+# Obsidian workspace files (contains local window layout and state, no need to sync)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Environment variables (just in case you ever add API keys)
+.env
+.env.local
+.env.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -11,12 +11,14 @@
             "id": "cd67ba6588beb9c0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bluesmithera-action-roadmap.excalidraw"
+                "file": "sources/my-random-thoughts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "bluesmithera-action-roadmap"
+              "icon": "lucide-file",
+              "title": "my-random-thoughts"
             }
           }
         ]
@@ -186,6 +188,8 @@
   },
   "active": "cd67ba6588beb9c0",
   "lastOpenFiles": [
+    "index.md",
+    "bluesmithera-action-roadmap.excalidraw",
     "update_roadmap2.py",
     "concepts/Viral-Twitter-Strategy.md",
     "concepts/Truelancer-Automation.md",
@@ -194,7 +198,6 @@
     "update_roadmap.py",
     "concepts/ERP-Outreach-Strategy.md",
     "concepts/Free-Market-Research.md",
-    "bluesmithera-action-roadmap.excalidraw",
     "bluesmithera-brain-map.excalidraw",
     "generate_roadmap.py",
     "todo/Action-Plan.md",
@@ -210,7 +213,6 @@
     "Excalidraw/Drawing 2026-09-13 12.34.47.excalidraw.md",
     "Excalidraw/Drawing 2026-09-13 12.34.31.excalidraw.md",
     "convert.py",
-    "Excalidraw",
     "concepts/monetization-free-tool-websites.md",
     "concepts/content-and-marketing-strategy.md",
     "concepts/product-social-automation-app.md",
