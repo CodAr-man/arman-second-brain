@@ -31,6 +31,8 @@ cd "$BRAIN_DIR"
 "$AGY_BIN" \
     --print "Use the process-brain-dump skill to process my notes in sources/my-random-thoughts.md. Follow every step in the SKILL.md exactly." \
     --mode=accept-edits \
+    --sandbox \
+    --dangerously-skip-permissions \
     --print-timeout 10m \
     >> "$LOG_FILE" 2>&1
 
