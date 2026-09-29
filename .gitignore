@@ -8,6 +8,9 @@
 .env.local
 .env.*
 
+# Raw brain dump archives (personal reference, synced via Syncthing)
+sources/raw/
+
 # OS generated files
 .DS_Store
 .DS_Store?

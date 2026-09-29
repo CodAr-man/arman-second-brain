@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "my-random-thoughts"
             }
+          },
+          {
+            "id": "6b5bb6cbebf95380",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bluesmithera-action-roadmap.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bluesmithera-action-roadmap"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,15 +199,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cd67ba6588beb9c0",
+  "active": "6b5bb6cbebf95380",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-09-17 15.00.17.excalidraw.md",
+    "sources/my-random-thoughts.md",
     "index.md",
     "bluesmithera-action-roadmap.excalidraw",
     "update_roadmap2.py",
     "concepts/Viral-Twitter-Strategy.md",
     "concepts/Truelancer-Automation.md",
     "concepts/Data-Scraping-Sales.md",
-    "sources/my-random-thoughts.md",
     "update_roadmap.py",
     "concepts/ERP-Outreach-Strategy.md",
     "concepts/Free-Market-Research.md",
@@ -223,7 +237,6 @@
     "entities/people/nick-sareav.md",
     "entities/people/koushik.md",
     "entities/people/jack-roberts.md",
-    "entities/organizations/bluesmithera-ai.md",
-    "skills/excalidraw/SKILL.md"
+    "entities/organizations/bluesmithera-ai.md"
   ]
 }
